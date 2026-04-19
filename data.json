@@ -1,0 +1,28 @@
+{
+    "now_showing": [
+        {
+            "id": 687163,
+            "custom_title": "Project Hail Mary",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/phm_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=F2K7BlgF5bv"
+        }
+    ],
+    "coming_soon": [
+        {
+            "id": 10594,
+            "custom_title": "Speed Racer (4K Restoration)",
+            "custom_trailer": "jMWFDFRrkHQ"
+        },
+        {
+            "id": 1096197,
+            "custom_title": "Michael",
+            "custom_trailer": "tUi3cuDTag0"
+        }
+    ],
+    "archive": [
+        {
+            "id": 157336,
+            "custom_title": "Interstellar"
+        }
+    ]
+}
