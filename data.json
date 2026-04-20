@@ -4,15 +4,123 @@
             "id": 687163,
             "custom_title": "Project Hail Mary",
             "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/phm_poster.jpg",
-            "custom_trailer": "https://youtube.com/3GPyA7VniTY?si=ZbJedCdpsW34J_r3"
+            "custom_trailer": "https://youtube.com/3GPyA7VniTY"
+        },
+        {
+            "id": 1462229,
+            "custom_title": "Pegasus 3",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/pegasus3_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=zNu476xN6Ao"
+        },
+        {
+            "id": 1159559,
+            "custom_title": "Scream 7",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/scream7_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=L0teS304s7I"
+        },
+        {
+            "id": 1159831,
+            "custom_title": "The Bride!",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/bride_poster.jpg",
+            "custom_trailer": "https://youtu.be/mF8p8zshD1Y"
+        },
+        {
+            "id": 16859,
+            "custom_title": "Kiki's Delivery Service",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/kiki_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=e-ENiLJPwDQ"
+        },
+        {
+            "id": 11326,
+            "custom_title": "Tommy",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/tommy_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=g913ZnskkS4"
+        },
+        {
+            "id": 1226863,
+            "custom_title": "The Super Mario Bros. Movie 2",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/mario2_poster.jpg",
+            "custom_trailer": "https://youtu.be/3M7R0Yt8Z_k"
+        },
+        {
+            "id": 59490,
+            "custom_title": "Cave of Forgotten Dreams",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/cave_poster.jpg",
+            "custom_trailer": "https://youtu.be/9k276rLIDr8"
+        },
+        {
+            "id": 1595223,
+            "custom_title": "2DIE4",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/2die4_poster.jpg",
+            "custom_trailer": "https://youtu.be/i7FhO_c8S8k"
         }
     ],
     "upcoming releases": [
         {
+            "id": 37797,
+            "custom_title": "Whisper of the Heart",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/whisper_poster.jpg",
+            "custom_trailer": "https://youtu.be/0pVkd7f04sc"
+        },
+        {
             "id": 936075,
             "custom_title": "Michael",
             "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/michael_poster.jpg",
-            "custom_trailer": "https://youtu.be/tUi3cuDTag0?si=WKa4DcbowiK_yald"
+            "custom_trailer": "https://www.youtube.com/watch?v=tUi3cuDTag0"
+        },
+        {
+            "id": 1228710,
+            "custom_title": "Star Wars: The Mandalorian & Grogu",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/mando_poster.jpg",
+            "custom_trailer": "https://youtu.be/RAnSByGq4d4"
+        },
+        {
+            "id": 1275779,
+            "custom_title": "Disclosure Day",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/disclosure_poster.jpg",
+            "custom_trailer": "https://youtu.be/I7_4T7p-t30"
+        },
+        {
+            "id": 1084244,
+            "custom_title": "Toy Story 5",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/toystory5_poster.jpg",
+            "custom_trailer": "https://www.youtube.com/watch?v=n41enLMUrgU"
+        },
+        {
+            "id": 1081003,
+            "custom_title": "Supergirl: Woman of Tomorrow",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/supergirl_poster.jpg",
+            "custom_trailer": "https://youtu.be/wXgLwXFr65o"
+        },
+        {
+            "id": 1108427,
+            "custom_title": "Moana (Live Action)",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/moana_poster.jpg",
+            "custom_trailer": "https://youtu.be/C-11uX7S3z0"
+        },
+        {
+            "id": 1101383,
+            "custom_title": "The End of Oak Street",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/oakstreet_poster.jpg",
+            "custom_trailer": "https://youtu.be/Xy9Bv4S5Qe4"
+        },
+        {
+            "id": 1384216,
+            "custom_title": "The Dog Stars",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/dogstars_poster.jpg",
+            "custom_trailer": "https://youtu.be/V6n9V4Hk6eU"
+        },
+        {
+            "id": 1153576,
+            "custom_title": "Street Fighter",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/streetfighter_poster.jpg",
+            "custom_trailer": "https://youtu.be/L8_p8_8_8_k"
+        },
+        {
+            "id": 1300968,
+            "custom_title": "The Hunger Games: Sunrise on the Reaping",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/sunrise_poster.jpg",
+            "custom_trailer": "https://youtu.be/R_p8_8_8_8_k"
         }
     ]
 }
