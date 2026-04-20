@@ -8,6 +8,11 @@
         }
     ],
     "upcoming releases": [
-        {}
+        {
+            "id": 936075,
+            "custom_title": "Michael",
+            "custom_poster": "https://raw.githubusercontent.com/JasonForReels/lumadata/main/michael_poster.jpg",
+            "custom_trailer": "https://youtu.be/tUi3cuDTag0?si=WKa4DcbowiK_yald"
+        }
     ]
 }
